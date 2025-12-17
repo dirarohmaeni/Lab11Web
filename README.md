@@ -116,17 +116,17 @@ Tampilan website dibuat modern dan sederhana dengan tema pink pastel, tanpa meng
 
 Screenshot pengerjaan meliputi:
 
-Struktur folder project
-
 Halaman data artikel
+![foto](https://github.com/dirarohmaeni/Lab11Web/blob/a827985d30c5b60926b1dcff92c1434c5d70b53a/lab11/data.png)
 
 Halaman tambah artikel
+![foto](https://github.com/dirarohmaeni/Lab11Web/blob/a827985d30c5b60926b1dcff92c1434c5d70b53a/lab11/tambah.png)
 
 Halaman ubah artikel
+![foto](https://github.com/dirarohmaeni/Lab11Web/blob/a827985d30c5b60926b1dcff92c1434c5d70b53a/lab11/edit.png)
 
 Proses hapus artikel
-
-URL routing
+![foto](https://github.com/dirarohmaeni/Lab11Web/blob/a827985d30c5b60926b1dcff92c1434c5d70b53a/lab11/hapus.png)
 
 ## 📝 Catatan
 
