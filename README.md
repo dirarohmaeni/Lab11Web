@@ -100,7 +100,7 @@ Routing diatur menggunakan file .htaccess dan index.php, sehingga URL menjadi le
 
 Tampilan website dibuat modern dan sederhana dengan tema pink pastel, tanpa menggunakan framework CSS tambahan.
 
-### ▶️ Cara Menjalankan Project
+## ▶️ Cara Menjalankan Project
 
 1. Aktifkan Apache dan MySQL melalui XAMPP.
 
@@ -112,7 +112,7 @@ Tampilan website dibuat modern dan sederhana dengan tema pink pastel, tanpa meng
 ``` http://localhost/lab11_php_oop/artikel/index
 ```
 
-### 📸 Dokumentasi
+## 📸 Dokumentasi
 
 Screenshot pengerjaan meliputi:
 
@@ -128,11 +128,11 @@ Proses hapus artikel
 
 URL routing
 
-### 📝 Catatan
+## 📝 Catatan
 
 Fitur login dan logout belum diimplementasikan karena akan dibahas pada Praktikum 12, sesuai dengan modul perkuliahan.
 
-### 👨‍🎓 Identitas
+## 👨‍🎓 Identitas
 
 Nama : Dira Rohmaeni
 
@@ -140,7 +140,7 @@ NIM : 312410465
 
 Kelas : TI.24.A5
 
-### 📚 Referensi
+## 📚 Referensi
 
 Modul Praktikum Pemrograman Web – PHP OOP Lanjutan
 Universitas Pelita Bangsa
