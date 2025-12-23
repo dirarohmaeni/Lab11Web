@@ -109,8 +109,7 @@ Tampilan website dibuat modern dan sederhana dengan tema pink pastel, tanpa meng
 3. Import database dan tabel.
 
 4. Akses melalui browser:
-``` http://localhost/lab11_php_oop/artikel/index
-```
+http://localhost/lab11_php_oop/artikel/index
 
 ## 📸 Dokumentasi
 
@@ -162,7 +161,6 @@ Project ini merupakan hasil Praktikum 11 dan 12 mata kuliah Pemrograman Web Lanj
 - CSS3
 - XAMPP
 
-
 ## ▶️ Cara Menjalankan Aplikasi
 1. Clone repository ini
 2. Letakkan folder `lab11_php_oop` di dalam `htdocs`
@@ -170,24 +168,24 @@ Project ini merupakan hasil Praktikum 11 dan 12 mata kuliah Pemrograman Web Lanj
 4. Buat database `latihan_oop`
 5. Import tabel `users` dan `artikel`
 6. Akses aplikasi melalui browser:
-``` http://localhost/lab11_php_oop
-```
-
+http://localhost/lab11_php_oop
 
 ## 📸 Screenshot
 Halaman login
-
+![foto](https://github.com/dirarohmaeni/Lab11Web/blob/4fdcdb864970d94d8726ce44b6616a3f58d3ec2e/lab12/login.png)
 
 Halaman artikel
-
+![foto](https://github.com/dirarohmaeni/Lab11Web/blob/4fdcdb864970d94d8726ce44b6616a3f58d3ec2e/lab12/list.png)
 
 Halaman profil
-
+![foto](https://github.com/dirarohmaeni/Lab11Web/blob/4fdcdb864970d94d8726ce44b6616a3f58d3ec2e/lab12/profil.png)
 
 Halaman edit profil
-
+![foto](https://github.com/dirarohmaeni/Lab11Web/blob/4fdcdb864970d94d8726ce44b6616a3f58d3ec2e/lab12/edit.png)
 
 Halaman ubah password
+![foto](https://github.com/dirarohmaeni/Lab11Web/blob/4fdcdb864970d94d8726ce44b6616a3f58d3ec2e/lab12/ubah.png)
+
 
 ## 👨‍🎓 Identitas
 
