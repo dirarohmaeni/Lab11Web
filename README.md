@@ -132,6 +132,63 @@ Proses hapus artikel
 
 Fitur login dan logout belum diimplementasikan karena akan dibahas pada Praktikum 12, sesuai dengan modul perkuliahan.
 
+
+
+# Praktikum 11 & 12 – PHP OOP
+
+## 📌 Deskripsi
+Project ini merupakan hasil Praktikum 11 dan 12 mata kuliah Pemrograman Web Lanjutan yang membahas penerapan PHP berbasis Object Oriented Programming (OOP), routing sederhana, CRUD, serta autentikasi pengguna menggunakan session.
+
+## 🎯 Tujuan
+- Menerapkan konsep OOP pada PHP
+- Membuat aplikasi CRUD sederhana
+- Mengimplementasikan login dan logout
+- Mengelola session pengguna
+- Membuat tampilan web yang rapi dan modern
+
+## 🚀 Fitur Aplikasi
+- Login dan Logout
+- CRUD Data Artikel
+- Routing sederhana tanpa framework
+- Profil Pengguna
+- Edit Profil
+- Ubah Password (menggunakan password_hash)
+- Tampilan modern dengan CSS terpisah
+
+## 🧱 Teknologi yang Digunakan
+- PHP 8.x
+- MySQL
+- HTML5
+- CSS3
+- XAMPP
+
+
+## ▶️ Cara Menjalankan Aplikasi
+1. Clone repository ini
+2. Letakkan folder `lab11_php_oop` di dalam `htdocs`
+3. Jalankan Apache dan MySQL melalui XAMPP
+4. Buat database `latihan_oop`
+5. Import tabel `users` dan `artikel`
+6. Akses aplikasi melalui browser:
+``` http://localhost/lab11_php_oop
+```
+
+
+## 📸 Screenshot
+Halaman login
+
+
+Halaman artikel
+
+
+Halaman profil
+
+
+Halaman edit profil
+
+
+Halaman ubah password
+
 ## 👨‍🎓 Identitas
 
 Nama : Dira Rohmaeni
